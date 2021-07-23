@@ -12,6 +12,9 @@
 [<img align="left" alt="Github" src="https://image.flaticon.com/icons/png/32/38/38401.png" />][github]
 [<img align="left" alt="telegram" src="https://image.flaticon.com/icons/png/32/124/124019.png" />][telegram]
 
+<!-- <a href="http://twitter.com/eddiejaoude">
+    <img src="https://img.shields.io/twitter/follow/mukul98s?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
+</a> -->
 <br />
 <br />
 
