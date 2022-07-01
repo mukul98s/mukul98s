@@ -58,5 +58,5 @@
 [linkedin]: https://www.linkedin.com/in/mukul98s/
 [twitter]: https://twitter.com/mukul98s
 [github]: https://github.com/mukul98s?tab=follow
-[telegram]: https://t.me/mukul98s
+[telegram]:https://t.me/mukul98s
 [email]: mailto:mymukul112@gmail.com
