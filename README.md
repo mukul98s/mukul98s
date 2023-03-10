@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on React Projects
 - 📫 How to reach me: mymukul112@gmail.com
-- ⚡ Fun fact: I love cycling 🚴‍♀️
 
 ### Connect with me
 [<img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
@@ -45,15 +44,16 @@
 
 
 ## Mukul's Github Stats
-![Mukul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukul98s&count_private=true&show_icons=true&theme=dark)
-<br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukul98s&theme=dark&layout=compact)
+<div align="center">
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mukul98s&theme=radical)](https://git.io/streak-stats) 
-<br /> -->
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=mukul98s&show_icons=true&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mukul98s)](https://github.com/ryo-ma/github-profile-trophy)
+  ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukul98s&hide=html,css&theme=tokyonight)
+
+  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mukul98s&theme=tokyonight)
+  
+</div>
 
 [linkedin]: https://www.linkedin.com/in/mukul98s/
 [twitter]: https://twitter.com/mukul98s
