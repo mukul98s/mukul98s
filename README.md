@@ -1,8 +1,8 @@
 ![Hi there, I'm Mukul Sharma 👋](./asset/banner.svg)
 
-## ⚒️ Skills
+# ⚒️ Skills
 
-### Programming Languages
+### 🏎️ Programming Languages
 
 <div style="display: flex; gap: 0.25rem">
 
@@ -70,7 +70,9 @@
 
 </div>
 
-## 🤙 Connect with me
+<br />
+
+# 🤙 Connect with me
 
 <div style="display: flex; gap:0.25rem">
 
