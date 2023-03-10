@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="visual"
+   viewBox="0 0 960 540"
+   width="960"
+   height="540"
+   version="1.1"
+   sodipodi:docname="banner.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs19" />
+  <sodipodi:namedview
+     id="namedview17"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.96376035"
+     inkscape:cx="489.74831"
+     inkscape:cy="297.27307"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="visual" />
+  <rect
+     x="0"
+     y="0"
+     width="960"
+     height="540"
+     fill="#a5dff9"
+     id="rect2"
+     style="fill:#bbe6fb;fill-opacity:1" />
+  <path
+     d="M0 333L17.8 337.7C35.7 342.3 71.3 351.7 106.8 352.5C142.3 353.3 177.7 345.7 213.2 349.7C248.7 353.7 284.3 369.3 320 367C355.7 364.7 391.3 344.3 426.8 338.3C462.3 332.3 497.7 340.7 533.2 339.3C568.7 338 604.3 327 640 324C675.7 321 711.3 326 746.8 339.3C782.3 352.7 817.7 374.3 853.2 382.8C888.7 391.3 924.3 386.7 942.2 384.3L960 382L960 541L942.2 541C924.3 541 888.7 541 853.2 541C817.7 541 782.3 541 746.8 541C711.3 541 675.7 541 640 541C604.3 541 568.7 541 533.2 541C497.7 541 462.3 541 426.8 541C391.3 541 355.7 541 320 541C284.3 541 248.7 541 213.2 541C177.7 541 142.3 541 106.8 541C71.3 541 35.7 541 17.8 541L0 541Z"
+     fill="#ef5285"
+     id="path4" />
+  <path
+     d="M0 391L17.8 392C35.7 393 71.3 395 106.8 396.7C142.3 398.3 177.7 399.7 213.2 403.3C248.7 407 284.3 413 320 408.3C355.7 403.7 391.3 388.3 426.8 385.2C462.3 382 497.7 391 533.2 386.7C568.7 382.3 604.3 364.7 640 359.3C675.7 354 711.3 361 746.8 361.3C782.3 361.7 817.7 355.3 853.2 362.3C888.7 369.3 924.3 389.7 942.2 399.8L960 410L960 541L942.2 541C924.3 541 888.7 541 853.2 541C817.7 541 782.3 541 746.8 541C711.3 541 675.7 541 640 541C604.3 541 568.7 541 533.2 541C497.7 541 462.3 541 426.8 541C391.3 541 355.7 541 320 541C284.3 541 248.7 541 213.2 541C177.7 541 142.3 541 106.8 541C71.3 541 35.7 541 17.8 541L0 541Z"
+     fill="#d071c9"
+     id="path6" />
+  <path
+     d="M0 394L17.8 400.7C35.7 407.3 71.3 420.7 106.8 427.3C142.3 434 177.7 434 213.2 428.5C248.7 423 284.3 412 320 410.8C355.7 409.7 391.3 418.3 426.8 424.7C462.3 431 497.7 435 533.2 427.3C568.7 419.7 604.3 400.3 640 395.3C675.7 390.3 711.3 399.7 746.8 409.3C782.3 419 817.7 429 853.2 425C888.7 421 924.3 403 942.2 394L960 385L960 541L942.2 541C924.3 541 888.7 541 853.2 541C817.7 541 782.3 541 746.8 541C711.3 541 675.7 541 640 541C604.3 541 568.7 541 533.2 541C497.7 541 462.3 541 426.8 541C391.3 541 355.7 541 320 541C284.3 541 248.7 541 213.2 541C177.7 541 142.3 541 106.8 541C71.3 541 35.7 541 17.8 541L0 541Z"
+     fill="#8d94f0"
+     id="path8" />
+  <path
+     d="M0 438L17.8 438.3C35.7 438.7 71.3 439.3 106.8 440C142.3 440.7 177.7 441.3 213.2 445.7C248.7 450 284.3 458 320 455.7C355.7 453.3 391.3 440.7 426.8 433.3C462.3 426 497.7 424 533.2 428.7C568.7 433.3 604.3 444.7 640 452C675.7 459.3 711.3 462.7 746.8 457.3C782.3 452 817.7 438 853.2 437C888.7 436 924.3 448 942.2 454L960 460L960 541L942.2 541C924.3 541 888.7 541 853.2 541C817.7 541 782.3 541 746.8 541C711.3 541 675.7 541 640 541C604.3 541 568.7 541 533.2 541C497.7 541 462.3 541 426.8 541C391.3 541 355.7 541 320 541C284.3 541 248.7 541 213.2 541C177.7 541 142.3 541 106.8 541C71.3 541 35.7 541 17.8 541L0 541Z"
+     fill="#33adf3"
+     id="path10" />
+  <path
+     d="M0 449L17.8 449.5C35.7 450 71.3 451 106.8 455.8C142.3 460.7 177.7 469.3 213.2 476.2C248.7 483 284.3 488 320 486C355.7 484 391.3 475 426.8 474.3C462.3 473.7 497.7 481.3 533.2 484.5C568.7 487.7 604.3 486.3 640 483.8C675.7 481.3 711.3 477.7 746.8 472C782.3 466.3 817.7 458.7 853.2 457.8C888.7 457 924.3 463 942.2 466L960 469L960 541L942.2 541C924.3 541 888.7 541 853.2 541C817.7 541 782.3 541 746.8 541C711.3 541 675.7 541 640 541C604.3 541 568.7 541 533.2 541C497.7 541 462.3 541 426.8 541C391.3 541 355.7 541 320 541C284.3 541 248.7 541 213.2 541C177.7 541 142.3 541 106.8 541C71.3 541 35.7 541 17.8 541L0 541Z"
+     fill="#07bdda"
+     id="path12" />
+  <path
+     d="M0 486L17.8 491.3C35.7 496.7 71.3 507.3 106.8 508.7C142.3 510 177.7 502 213.2 501.7C248.7 501.3 284.3 508.7 320 509.5C355.7 510.3 391.3 504.7 426.8 502.7C462.3 500.7 497.7 502.3 533.2 500.8C568.7 499.3 604.3 494.7 640 496C675.7 497.3 711.3 504.7 746.8 509.2C782.3 513.7 817.7 515.3 853.2 510.2C888.7 505 924.3 493 942.2 487L960 481L960 541L942.2 541C924.3 541 888.7 541 853.2 541C817.7 541 782.3 541 746.8 541C711.3 541 675.7 541 640 541C604.3 541 568.7 541 533.2 541C497.7 541 462.3 541 426.8 541C391.3 541 355.7 541 320 541C284.3 541 248.7 541 213.2 541C177.7 541 142.3 541 106.8 541C71.3 541 35.7 541 17.8 541L0 541Z"
+     fill="#60c5ba"
+     id="path14" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;line-height:71.4287px;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline';letter-spacing:0px;word-spacing:0px;fill:#2f3f51;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="222.03142"
+     y="142.59741"
+     id="text2223"><tspan
+       sodipodi:role="line"
+       id="tspan2221"
+       x="222.03142"
+       y="142.59741"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:53.3333px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Semi-Bold';fill:#2f3f51;fill-opacity:1">Hi, I'm Mukul Sharma</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:42.8571px;font-family:'Source Code Pro for Powerline';-inkscape-font-specification:'Source Code Pro for Powerline';letter-spacing:0px;word-spacing:0px;fill:#444f55;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="126.88281"
+     y="205.61467"
+     id="text16597"><tspan
+       sodipodi:role="line"
+       id="tspan16595"
+       x="275.88281"
+       y="205.61467"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#444f55;fill-opacity:1">A passionate Fullstack Developer</tspan></text>
+</svg>
