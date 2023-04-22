@@ -53,26 +53,12 @@
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![image](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
-
-</div>
-
-### 🪤 Other
-
-<div style="display: flex; gap:0.25rem">
-
-![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![image](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![image](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![image](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
 
 </div>
 
 <br />
 
-# 🤙 Connect with me
+## 🤙 Connect with me
 
 <div style="display: flex; gap:0.25rem">
 
@@ -91,8 +77,6 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mukul98s&show_icons=true&theme=tokyonight)
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukul98s&hide=html,css&theme=tokyonight)
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mukul98s&theme=tokyonight)
 
 </div>
 
