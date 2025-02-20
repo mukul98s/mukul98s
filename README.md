@@ -65,7 +65,6 @@
 [<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github]
-[<img alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
 [<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
 
 </div>
@@ -74,8 +73,6 @@
 
 <div  align="center">
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=mukul98s&show_icons=true&theme=tokyonight)
-
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukul98s&hide=html,css&theme=tokyonight)
 
 </div>
@@ -83,5 +80,4 @@
 [linkedin]: https://www.linkedin.com/in/mukul98s/
 [twitter]: https://twitter.com/mukul98s
 [github]: https://github.com/mukul98s?tab=follow
-[telegram]: https://t.me/mukul98s
 [email]: mailto:mymukul112@gmail.com
